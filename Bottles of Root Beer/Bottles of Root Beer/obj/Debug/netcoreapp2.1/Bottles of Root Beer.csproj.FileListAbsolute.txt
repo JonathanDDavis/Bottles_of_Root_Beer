@@ -1,0 +1,12 @@
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Bottles of Root Beer\Bottles of Root Beer\obj\Debug\netcoreapp2.1\Bottles of Root Beer.csprojAssemblyReference.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Bottles of Root Beer\Bottles of Root Beer\obj\Debug\netcoreapp2.1\Bottles of Root Beer.csproj.CoreCompileInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Bottles of Root Beer\Bottles of Root Beer\obj\Debug\netcoreapp2.1\Bottles of Root Beer.AssemblyInfoInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Bottles of Root Beer\Bottles of Root Beer\obj\Debug\netcoreapp2.1\Bottles of Root Beer.AssemblyInfo.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Bottles of Root Beer\Bottles of Root Beer\bin\Debug\netcoreapp2.1\Bottles of Root Beer.deps.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Bottles of Root Beer\Bottles of Root Beer\bin\Debug\netcoreapp2.1\Bottles of Root Beer.runtimeconfig.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Bottles of Root Beer\Bottles of Root Beer\bin\Debug\netcoreapp2.1\Bottles of Root Beer.runtimeconfig.dev.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Bottles of Root Beer\Bottles of Root Beer\bin\Debug\netcoreapp2.1\Bottles of Root Beer.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Bottles of Root Beer\Bottles of Root Beer\bin\Debug\netcoreapp2.1\Bottles of Root Beer.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Bottles of Root Beer\Bottles of Root Beer\obj\Debug\netcoreapp2.1\Bottles of Root Beer.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Bottles of Root Beer\Bottles of Root Beer\obj\Debug\netcoreapp2.1\Bottles of Root Beer.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Bottles of Root Beer\Bottles of Root Beer\obj\Debug\netcoreapp2.1\Bottles of Root Beer.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Bottles of Root Beer/1.0.0": {
+        "runtime": {
+          "Bottles of Root Beer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bottles of Root Beer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
